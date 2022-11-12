@@ -5,13 +5,10 @@ table{
     width: 100px;
 }
 #same{
-    width: 150px;
     text-align: right;
-    max-width: 30px;
 }
 #headers{
      text-align: left;
-     max-width: 30px;
 }
 
 thead{
