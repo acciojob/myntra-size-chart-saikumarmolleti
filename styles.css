@@ -1,9 +1,4 @@
-table{
-    width: 150px;
-    max-width: 100px;
-    border: 3px solid black;
-    width: 100px;
-}
+
 #same{
     text-align: right;
 }
@@ -11,10 +6,5 @@ table{
      text-align: left;
 }
 
-thead{
-    background-color: chocolate;
-}
-tbody{
-    background-color: rgb(221, 157, 132);
-}
+
 /* Your CSS Code here. */
