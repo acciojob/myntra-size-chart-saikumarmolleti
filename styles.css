@@ -1,2 +1,21 @@
+table{
+    max-width: 100px;
+    border: 3px solid black;
+    width: 100px;
+}
+#headers{
+     text-align: left;
+     max-width: 30px;
+}
+#same{
+    text-align: right;
+    max-width: 30px;
+}
 
+thead{
+    background-color: chocolate;
+}
+tbody{
+    background-color: rgb(221, 157, 132);
+}
 /* Your CSS Code here. */
